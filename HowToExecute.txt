@@ -1,0 +1,11 @@
+Run the following commands in Terminal to execute program:
+Clone or Download the repository and unzip it first
+
+
+Make the working directory as the one you cloned or downloaded ie.
+
+RUN cd Downloads(provided you downloaded files are present in Downloads)
+RUN cd RSS_Feed
+RUN pip install -r pkg.txt
+RUN python3 RSSFeed_webScrapper.py
+ 
